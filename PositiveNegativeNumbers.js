@@ -1,7 +1,7 @@
 
-const ask = require("prompt-sync");
+const ask = require("prompt-sync")();
 
-const number = parseFloat(ask("Please enter Integer"));
+const number = parseFloat(ask("Please enter Integer: "));
 
 if(number >= 0)
 {

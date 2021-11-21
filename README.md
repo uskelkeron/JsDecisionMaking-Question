@@ -3,3 +3,9 @@
 Program 1: AgeChecker.js test the age of persons and determine if they are able to gain access
 
 Program 2: Quotient.js calculates the quotient between two numbers
+
+Program 3: PositiveNegativeNumber.js test and determine if number is positive or negative
+
+Program 4: OddEven.js determines if a number is Odd or Even
+
+Program 5: StudentAverage.js #A student is given 3 tests, each marked out of 100. The student passes if their average mark is greater than or equal to 50 and fails if their average mark is less than 50.  Develop a program that will prompt the user for 3 marks and print “Pass” if the student passes and “Fail” if the student fails.#
