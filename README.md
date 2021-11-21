@@ -9,3 +9,10 @@ Program 3: PositiveNegativeNumber.js test and determine if number is positive or
 Program 4: OddEven.js determines if a number is Odd or Even
 
 Program 5: StudentAverage.js #A student is given 3 tests, each marked out of 100. The student passes if their average mark is greater than or equal to 50 and fails if their average mark is less than 50.  Develop a program that will prompt the user for 3 marks and print “Pass” if the student passes and “Fail” if the student fails.#
+
+Program 6: Repairshop.js #A computer repair shop on Queen Street charges $100 for labour plus 
+the cost of parts used to repair the device. However, the minimum 
+charge for any job is $150. Write a program that will prompt the 
+user for the number of hours  it took to report the device   a
+nd the cost of parts. Lastly, print the charge of the job. 
+Do this question with an if else construct.#
