@@ -20,15 +20,6 @@ const device_cost = parseFloat(prompt("Please enter the cost of the part to repa
 const hours_spent = parseFloat(prompt("Please enter total numbers of hours spent repairing device: "));
 const repair_cost = (hours_spent * LABOUR) + device_cost;
 
-if(hours_spent === 1 && device_cost < 50)
-{
-    console.log(`Customer: ${customer} \nPart Cost: $${device_cost} \nRepairCost : ${MINCOST}`);
-}
-else if (hours_spent > 1)
-{
-    const repair_cost = (hours_spent * LABOUR) + device_cost;
-    console.log(`Customer: ${customer} \nPart Cost: $${device_cost} \nRepair Cost : ${repair_cost}`);
-
-}
-
-
+hours_spent === 1 && device_cost < 50 ? 
+console.log(`Customer: ${customer} \nPart Cost: $${device_cost} \nRepairCost : ${MINCOST}`) 
+: console.log(`Customer: ${customer} \nPart Cost: $${device_cost} \nRepair Cost : ${repair_cost}`);
