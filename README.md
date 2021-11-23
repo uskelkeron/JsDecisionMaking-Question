@@ -16,3 +16,8 @@ charge for any job is $150. Write a program that will prompt the
 user for the number of hours  it took to report the device   a
 nd the cost of parts. Lastly, print the charge of the job. 
 Do this question with an if else construct.#
+
+
+Program 7: RepairshopTernary.js # the programe was a redo of the Repairhsop program utilizing the ternary operator
+
+Program 8: GameShowReponsive.js # is a program which test the limits of nested if stagements. 
